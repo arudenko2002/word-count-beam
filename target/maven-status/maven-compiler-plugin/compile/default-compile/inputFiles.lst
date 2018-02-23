@@ -1,0 +1,11 @@
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/Denormalize3Tables.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/common/ExampleBigQueryTableOptions.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/common/ExampleOptions.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/common/ExampleUtils.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/common/WriteOneFilePerWindow.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/DebuggingWordCount.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/common/ExamplePubsubTopicOptions.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/WindowedWordCount.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/WordCount.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/MinimalWordCount.java
+/Users/rudenka/workspace/word-count-beam/src/main/java/org/apache/beam/examples/common/ExamplePubsubTopicAndSubscriptionOptions.java
